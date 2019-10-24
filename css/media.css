@@ -1,0 +1,640 @@
+@media(min-width:768px) and (max-width:991px){
+    nav ul li a{
+        font-size: 13px;
+    }
+    #header{
+        height: 400px;
+    }
+    #header h1{
+        padding-top: 70px;
+        padding-bottom: 12px;
+        margin-left: 0px;
+        font-size: 35px;
+        text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+        -webkit-text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+        -moz-text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+        -ms-text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+        -o-text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+    }
+    #header h2{
+        font-size: 25px;
+        padding-bottom: 15px;
+        text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+        -webkit-text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+        -moz-text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+        -ms-text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+        -o-text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+    }
+    #header p{
+        padding-bottom: 5px;
+        font-size: 14px;
+        letter-spacing: 2px;
+        font-family: raleway_extrabold;
+    }
+    #header h3{
+        padding-top: 20px;
+    }
+    #header h3 a{
+        padding: 8px 80px;
+        font-size: 20px;
+        -webkit-box-shadow: 0px 8px 6px -3px rgba(3,3,3,1);
+        -ms-box-shadow: 0px 8px 6px -3px rgba(3,3,3,1);
+        -o-box-shadow: 0px 8px 6px -3px rgba(3,3,3,1);
+        box-shadow: 0px 8px 6px -3px rgba(3,3,3,1);
+    }
+    #header h3 a:hover{
+        background: #e0970e;
+        color: #fff;
+        transition: all linear .4s;
+        -webkit-transition: all linear .4s;
+        -moz-transition: all linear .4s;
+        -ms-transition: all linear .4s;
+        -o-transition: all linear .4s;
+    }
+    #header img {
+        height: 322px;
+        margin-top: 77px;
+        width: 180px;
+    }
+    /*----------------------------header part ends------------*/
+    #education .degree h2{
+        padding: 5px 0px;
+        font-size: 20px;
+        font-family: raleway_extrabold;
+    }
+    #education .ssc{
+        font-size: 14px;
+        padding: 10px;
+    }
+    #education .ssc p{
+        font-size: 13px;
+        padding-bottom: 30px;
+    }
+    #education i{
+        font-size: 50px;
+        padding: 20px 0px 10px;
+    }
+    #education i:hover{
+        transition: all linear .4s;
+        -webkit-transition: all linear .4s;
+        -moz-transition: all linear .4s;
+        -ms-transition: all linear .4s;
+        -o-transition: all linear .4s;
+    }
+    /*----------------------------educaion part ends------------*/
+    #training h2{
+        padding: 10px 0px;
+        font-size: 30px;
+        font-family: raleway_extrabold;
+    }
+    #training .course{
+        height: 260px;
+        width: 260px;
+        opacity: .70;
+        -webkit-opacity: .70;
+        -moz-opacity: .70;
+        -ms-opacity: .70;
+        -o-opacity: .70;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+    }
+    #training .course img{
+        display: inline-block;
+    }
+    #training .course h6{
+        padding: 2px 0px;
+        font-size: 12px;
+    }
+    #training .course p{
+        font-size: 12px;
+        padding: 5px 0px;
+    }
+    #training .course_graphics{
+        height: 260px;
+        width: 260px;
+        margin-top: 200px;
+        opacity: .70;
+        -webkit-opacity: .70;
+        -moz-opacity: .70;
+        -ms-opacity: .70;
+        -o-opacity: .70;
+        margin-bottom: 50px;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+    }
+    #training .course_graphics img{
+        display: inline-block;
+    }
+    #training .course_graphics h6{
+        padding: 0px 0px;
+        font-size: 12px;
+    }
+    #training .course_graphics p{
+        color: #fff;
+        font-size: 12px;
+        padding: 5px 0px;
+    }
+    #training .course p span a{
+        text-decoration: none;
+        color: #9e090c;
+        text-shadow: rgb(242, 242, 242) 3px 1px 10px;
+        -webkit-text-shadow: rgb(242, 242, 242) 3px 1px 10px;
+        -moz-text-shadow: rgb(242, 242, 242) 3px 1px 10px;
+        -ms-text-shadow: rgb(242, 242, 242) 3px 1px 10px;
+        -o-text-shadow: rgb(242, 242, 242) 3px 1px 10px;
+    }
+    /*----------------------------training part ends------------*/
+    #skill_details h3{
+        font-size: 30px;
+        padding: 10px 0px;
+    }
+    #skill_details .all_skills .skill{
+        float: left;
+        color: #fff;
+        text-align: justify;
+        padding: 12px 15px 0px 15px;
+    }
+    #skill_details .all_skills .skill p{
+        font-family:sans-serif;
+        font-size: 12px;
+    }
+    #skill_details .all_skills .skill img{
+        padding-bottom: 20px;
+        width: 130px;
+        height: 130px;
+        margin-left: 40px;
+    }
+    /*----------------------------skill destails part ends------------*/
+    #contact{
+        height: 430px;
+        
+    }
+    #contact h2{
+        padding-top: 10px;
+        font-size: 30px;
+    }
+    .map{
+        height: 330px;
+        width: 300px;
+        border: 5px solid #696969;
+        margin-top: 15px;
+    }
+    .google_map{
+        height: 320px;
+        width: 290px;
+    }
+    .email{
+        padding-top: 50px;
+    }
+    .email h5{
+        font-size: 15px;
+        margin-right: 30px;
+    }
+    .email .email_name{
+        padding-left: 10px;
+        width: 70%;
+        height: 25px;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+        margin-left: 80px;
+    }
+    .email .subject{
+        padding-left: 10px;
+        width: 70%;
+        height: 25px;
+        border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+        margin-left: 80px;
+    }
+    .message{
+        padding: 15px 8px;
+        border-radius: 10px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+    }
+    textarea{
+        width: 370px;
+        height: 100px;
+    }
+    .send_button{
+        width: 120px;
+        height: 40px;
+        background: #fff;
+        font-size: 15px;
+        margin-left: 50px;
+        border-radius: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+    }
+    .send_button:hover{
+        color: #fff;
+        transition: all linear .4s;
+        -webkit-transition: all linear .4s;
+        -moz-transition: all linear .4s;
+        -ms-transition: all linear .4s;
+        -o-transition: all linear .4s;
+    }
+    /*----------------------------map and email part ends------------*/
+    #undifine {
+        margin-top: 50px;
+    }
+    #undifine .found h2{
+        padding-top: 10px;
+        color: #fff;
+        font-size: 130px;
+        font-weight: 700;
+    }
+    #undifine .found h4{
+        color: #fff;
+        font-size: 20px;
+        padding-bottom: 30px;
+    }
+    #undifine .found p{
+        color: #fff;
+        font-size: 15px;
+    }
+    .warning{
+        padding-top: 30px;
+    }
+    /*-------------undifine part ends-----------------*/
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+@media(min-width:320px) and (max-width:767px){
+    #header{
+        height: ;
+        }
+    #header img{
+        margin-top: -10px;
+        }
+    .navbar-inverse{
+        background: none;
+        border: 0px;
+        }
+    #myNavbar ul li{
+        float: none;
+        }
+    #myNavbar ul li a{
+        margin-left: 10px;
+        font-size: 10px;
+        line-height: 7px;
+        background: #272822;
+        text-align: center;
+        }
+    .active{
+        display: none;
+        border: 1px solid #00a1d1;
+    }
+    #header h1 {
+        padding-top: 33%;
+        padding-bottom: 5px;
+        font-size: 4vw;
+        text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+        -webkit-text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+        -moz-text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+        -ms-text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+        -o-text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+    }
+    #header h2{
+        font-size: 3vw;
+        padding-bottom: 15px;
+        margin-left: 20px;
+        text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+        -webkit-text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+        -moz-text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+        -ms-text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+        -o-text-shadow: rgb(3, 3, 3) 4px 4px 4px;
+        }
+    #header p {
+        font-size: 2vw;
+        font-family: Berlin Sans FB;
+        color: #fff;
+        letter-spacing: 0px;
+        padding-bottom: 19%;
+    }
+    #header h3 {
+        padding-top: 0px;
+        margin-bottom: 30px;
+    }
+    #header h3 a{
+        font-family: opensans_reg;
+        margin-top: 5px;
+        margin-bottom: 30px;
+        padding: 5px 30px 5px 30px;
+        font-size: 13px;
+        color: #fff;
+        box-shadow: 0px 8px 6px -3px rgba(3,3,3,1);
+        -webkit-box-shadow: 0px 8px 6px -3px rgba(3,3,3,1);
+        -moz-box-shadow: 0px 8px 6px -3px rgba(3,3,3,1);
+        -ms-box-shadow: 0px 8px 6px -3px rgba(3,3,3,1);
+        -o-box-shadow: 0px 8px 6px -3px rgba(3,3,3,1);
+        }
+    #header h3 a:hover{
+        background: #e0970e;
+        color: #fff;
+        transition: all linear .4s;
+        -webkit-transition: all linear .4s;
+        -moz-transition: all linear .4s;
+        -ms-transition: all linear .4s;
+        -o-transition: all linear .4s;
+    }
+    .img-responsive.me {
+        margin-top: 15px !important;
+    }
+    /*-------------header part ends-----------------*/
+    #education .degree{
+        height: 260px;
+    }
+    #education .education_text h3{
+        font-size: 20px;
+    }
+    #education .degree h2{
+        padding: 2px 0px;
+        font-size: 20px;
+    }
+    #education .ssc{
+        padding: 5px;
+        height: 200px;
+    }
+    #education .ssc p{
+        font-size: 12px;
+        padding-bottom: 0px;
+    }
+    #education i{
+        font-size: 40px;
+        padding: 10px 0px;
+    }
+    #education i:hover{
+        color: #00a1d1;
+        transition: all linear .4s;
+        -webkit-transition: all linear .4s;
+        -moz-transition: all linear .4s;
+        -ms-transition: all linear .4s;
+        -o-transition: all linear .4s;
+    }
+    /*----------------------------educaion part ends------------*/
+    #training{
+        background: url(../images/training.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: center;
+        height: auto;
+    }
+    #training h2{
+        padding: 10px 0px;
+        font-size: 20px;
+    }
+    #training .course{
+        height: 250px;
+        width: 250px;
+        border-radius: 50%;
+        opacity: .80;
+        display: inline-block;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+    }
+    #training .course img{
+        padding-top: 10px;
+        height: 75px;
+        width: 70px;
+    }
+    #training .course h6{
+        color: #fff;
+        padding: 5px 0px;
+        font-family: sans-serif;
+        font-size: 10px;
+    }
+    #training .course p{
+        color: #fff;
+        padding: 5px 0px;
+        font-family: sans-serif;
+        font-size: 10px;
+    }
+    #training .course p span a{
+        text-decoration: none;
+        color: #9e090c;
+        text-shadow: rgb(242, 242, 242) 3px 1px 10px;
+        -webkit-text-shadow: rgb(242, 242, 242) 3px 1px 10px;
+        -moz-text-shadow: rgb(242, 242, 242) 3px 1px 10px;
+        -ms-text-shadow: rgb(242, 242, 242) 3px 1px 10px;
+        -o-text-shadow: rgb(242, 242, 242) 3px 1px 10px;
+    }
+    #training .course_graphics{
+        height: 250px;
+        width: 250px;
+        display: inline-block;
+        border-radius: 50%;
+        margin-top: 50px;
+        opacity: .80;
+        margin-bottom: 50px;
+        -webkit-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -ms-border-radius: 50%;
+        -o-border-radius: 50%;
+    }
+    #training .course_graphics img{
+        padding-top: 10px;
+        height: 75px;
+        width: 70px;
+    }
+    #training .course_graphics h6{
+        color: #fff;
+        padding: 5px 0px;
+        font-family: sans-serif;
+        font-size: 10px;
+    }
+    #training .course_graphics p{
+        color: #fff;
+        padding: 5px 0px;
+        font-family: sans-serif;
+        font-size: 10px;
+    }
+    /*-------------training part ends-----------------*/
+    #skill_details{
+        height: auto;
+    }
+    #skill_details h3{
+        font-size: 20px;
+        padding: 10px 0px;
+    }
+    #skill_details .all_skills .skill{
+        text-align: center;
+        padding: 12px 15px 0px 15px;
+    }
+    #skill_details .all_skills .skill p{
+        text-align: justify;
+        font-size: 12px;
+        padding-bottom: 15px;
+    }
+    #skill_details .all_skills .skill img{
+        padding-bottom: 20px;
+    }
+    #skill_details .all_skills .skill .read_more{
+        text-transform: capitalize;
+        font-weight: 800;
+    }
+    /*-------------skill part ends-----------------*/
+    #project .color{
+        background: #272822;
+    }
+    #project h3{
+        font-size: 20px;
+        text-transform: capitalize; 
+    }
+    #project .web{
+        background: #dadcde;
+    }
+    #project .web h4{
+        font-size: 25px;
+        text-align: center;
+        padding-top: 30px;
+        padding-bottom: 15px;
+    }
+    #project .web ul li{
+        padding-bottom: 10px;
+        text-align: center;
+    }
+    #project .web ul {
+        list-style: square;
+    }
+    #project .web ul li a{
+        color: #272822;
+        font-size: 15px;
+        text-decoration: none;
+    }
+    #project .web ul li a:hover{
+        color: #628bac;
+    }
+    /*----------------------project part ends-----------------------------*/
+    #contact{
+        height: auto;
+    }
+    #contact h2{
+        padding: 10px 0px 0px;
+        font-size: 20px;
+    }
+    .map{
+    }
+    #contact .form .name{
+        padding: 5px 10px;
+        width: 100%;
+        font-size: 13px;
+        margin-bottom: 20px;
+    }
+     #contact .form .email{
+        padding: 5px 10px;
+        width: 100%;
+        margin-bottom: 20px;
+        font-size: 13px;
+    }
+    #contact .form .sub_button{
+        margin-bottom: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+    }
+    
+    /*-------------contact part ends-----------------*/
+    #follow{
+         height: auto;
+    }
+    #follow h3{
+        color: #fff;
+        padding: 5px 0px 0px;
+        font-size: 20px;
+    }
+    #follow i{
+        margin-top: 20px;
+        margin-right: 5px;
+    }
+    
+    /*-------------follow part ends-----------------*/
+    #copyright{
+    height: 30px;
+    }
+    #copyright p{
+        color: #fff;
+        font-size: 12px;
+        line-height: 30px;
+        font-family: sans-serif;
+        padding: 1px 0px 3px 0px;
+    }
+    /*-------------copyright part ends-----------------*/
+    #undifine {
+        margin-top: 50px;
+    }
+    #undifine .found h2{
+        padding-top: 10px;
+        color: #fff;
+        font-size: 100px;
+        font-weight: 700;
+    }
+    #undifine .found h4{
+        color: #fff;
+        font-size: 20px;
+        padding-bottom: 30px;
+    }
+    #undifine .found p{
+        color: #fff;
+        font-size: 12px;
+    }
+    .warning{
+        padding-top: 30px;
+        margin-left: 50px;
+    }
+    /*-------------undifine part ends-----------------*/
+     
+      
+}
+
+ @media(min-width:320px) and (max-width:430px){
+        .hidde.wow.fadeInUp {
+            display: none;
+        }
+        label {
+            display: inline-block;
+            text-align: center;
+            background: #dadcde;
+            padding: 10px;
+            margin: 5px;
+            cursor: pointer;
+        }
+    }
